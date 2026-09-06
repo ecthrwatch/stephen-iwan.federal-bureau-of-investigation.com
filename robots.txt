@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://stephen-iwan.federal-bureau-of-investigation.com/sitemap-index.xml
